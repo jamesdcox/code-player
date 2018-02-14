@@ -5,11 +5,11 @@
         <title>Code Player</title>
         
         
-        <script type = "text/javascript" src="jquery.min.js"></script>
+        
         
         <link href="jquery-ui/jquery-ui.css" rel="stylesheet">
         
-        <script src="jquery-ui/jquery-ui.js"></script>
+        
         
         
         <style>
@@ -176,6 +176,10 @@
             
         </div>
         
+        
+        <script type = "text/javascript" src="jquery.min.js"></script>
+        <script src="jquery-ui/jquery-ui.js"></script>
+        <script type = "text/javascript" src="main.js"></script>
         
                  
     </body>
